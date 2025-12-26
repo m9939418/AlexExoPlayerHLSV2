@@ -14,6 +14,13 @@
 
 > UI / ViewModel / MediaController / MediaSession / PlaybackService **狀態一致、可維運、可除錯** 的播放器架構。
 
+---
+
+## Demo
+
+| Screenshot                            |
+|---------------------------------------|
+| ![](docs/demo.png) |
 
 ---
 
